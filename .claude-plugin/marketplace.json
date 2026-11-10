@@ -1,0 +1,5 @@
+{
+  "name": "claude-code-mods",
+  "owner": { "name": "emersondemetrio" },
+  "plugins": [{ "name": "model-badge", "source": "./" }]
+}
